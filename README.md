@@ -33,7 +33,7 @@ Requested → To Do → In Progress → Done
 
 📥 Installation
 # Clone the repository
-git clone <(https://github.com/Shannon1805/Project-Management-Tool)>
+git clone https://github.com/Shannon1805/Project-Management-Tool
 
 # Backend
 cd backend
