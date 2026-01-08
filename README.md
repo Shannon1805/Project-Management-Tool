@@ -18,3 +18,29 @@ Requested → To Do → In Progress → Done
 📁 Manage multiple projects simultaneously.
 
 🎨 Responsive & intuitive UI built with React and Tailwind CSS.
+
+⚡ How It Works
+
+1.Create a project and add tasks of your choice.
+
+2.Edit or delete tasks anytime.
+
+3.Real-time notifications alert all users instantly.
+
+4.Move tasks across columns to represent their current stage.
+
+5.Each project has its own task board, making multi-project management simple.
+
+📥 Installation
+# Clone the repository
+git clone <your-repo-url>
+
+# Backend
+cd backend
+npm install
+npm start
+
+# Frontend
+cd ../frontend
+npm install
+npm start
