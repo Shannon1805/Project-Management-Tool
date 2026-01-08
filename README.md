@@ -1,18 +1,20 @@
-#Project-Management-Tool(TaskNest)
-A dynamic Project Management Tool built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO for real-time notifications. This app lets you create, manage, and track tasks across multiple projects with a visually intuitive drag-and-drop interface.
+🚀 TaskNest – Project Management Tool
 
-##Features
+TaskNest is a dynamic Project Management Tool built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO for real-time notifications. Organize, track, and manage tasks across multiple projects with a drag-and-drop interface.
 
-Add, edit, and delete tasks for any project.
+✨ Features
 
-Real-time notifications when a task is added, updated, or deleted using Socket.IO.
+📝 Add, edit, and delete tasks for any project.
 
-Set start and end dates for each task.
+🔔 Real-time notifications when tasks are added, updated, or deleted (via Socket.IO).
 
-Track task progress across project stages: Requested → To Do → In Progress → Done.
+📅 Set start and end dates for each task.
 
-Drag and drop tasks between stages to update progress.
+📊 Track task progress across stages:
+Requested → To Do → In Progress → Done
 
-Manage multiple projects simultaneously.
+🔄 Drag & drop tasks between stages to update progress.
 
-Responsive and intuitive UI built with React and Tailwind CSS.
+📁 Manage multiple projects simultaneously.
+
+🎨 Responsive & intuitive UI built with React and Tailwind CSS.
